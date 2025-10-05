@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53010248948",
+    "project_id": "numie-3d522",
+    "storage_bucket": "numie-3d522.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53010248948:android:54cba5da348448b71c1aa1",
+        "android_client_info": {
+          "package_name": "com.numie.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSJQb7-E4BngXhj-GXfBhRBd3QSatzJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
